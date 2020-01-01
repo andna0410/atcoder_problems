@@ -1,2 +1,2 @@
 # atcoder_problems
-my atcoder problems code
+AtCoderの問題を解いた記録
